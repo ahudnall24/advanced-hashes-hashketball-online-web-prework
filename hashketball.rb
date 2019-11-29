@@ -2,6 +2,18 @@ def num_points_scored
   game_hash
 end
 
+
+player_stats("Alan Anderson")
+  => { :number => 0,
+        :shoe => 8,
+        :points => 20
+        :rebounds => 10,
+        :assists => 2,
+        :steals => 5,
+        :blocks => 3,
+        :slam_dunks => 2
+      }
+
 # Write your code here!
 
 
