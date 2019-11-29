@@ -8,10 +8,10 @@ player_stats("Bismak Biyombo")
         :shoe => 16,
         :points => 12
         :rebounds => 4,
-        :assists => 2,
-        :steals => 5,
-        :blocks => 3,
-        :slam_dunks => 2
+        :assists => 7,
+        :steals => 22,
+        :blocks => 15,
+        :slam_dunks => 10
       }
 
 # Write your code here!
