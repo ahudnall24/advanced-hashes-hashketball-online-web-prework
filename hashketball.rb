@@ -3,11 +3,11 @@ def num_points_scored
 end
 
 
-player_stats("Alan Anderson")
+player_stats("Bismak Biyombo")
   => { :number => 0,
-        :shoe => 8,
-        :points => 20
-        :rebounds => 10,
+        :shoe => 16,
+        :points => 12
+        :rebounds => 4,
         :assists => 2,
         :steals => 5,
         :blocks => 3,
